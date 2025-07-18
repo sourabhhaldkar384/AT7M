@@ -1,2 +1,2 @@
 # AT7M
-This is atm  website
+This is the official website of the ATM software
